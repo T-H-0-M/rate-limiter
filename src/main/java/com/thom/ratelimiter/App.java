@@ -1,4 +1,4 @@
-package com.thom.starter;
+package com.thom.ratelimiter;
 
 /**
  * Hello world!
